@@ -74,7 +74,7 @@ List of Visualizations for each KPI:
 BI Application Wireframe design:
 
 Use correct file path here to show picture of Wireframe design...
-![Alt text](/img/wireframe_design.JPG)
+![Alt text](https://github.com/barrypangteng/Cis-9440-Group-12/blob/09c0720207879d02bd5e3d004c23061b729a3b3c/Design.jpg)
 
 Picture of final Dashboard:
 
