@@ -66,10 +66,10 @@ Use correct file path here to show picture of dimensional model...
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
-1. Bar Chart for comparison of ...
-2.
-3.
-...
+1. We use a horizontal bar chart for the first KPI because we want to make a comparison across different subgroups of our data. From a horizontal bar chart, we can easily identify which group has the highest values.
+2. We use a pie chart for the second KPI because it shows the relationship of parts to the whole for different categories.
+3. We use a treemap for the third type because we have too many subgroups for the crime type. By using the heat map, the highest value will show as the biggest square inside the table. So we can easily identify which crime type has the highest value
+4. We use a bar chart for the 4th and 5th KPI because we want to compare the data and there aren’t too many segments
 
 BI Application Wireframe design:
 
