@@ -61,7 +61,7 @@ Use correct file path here to show picture of dimensional model...
 This project's Kimball Bus Matrix:
 
 Use correct file path here to show picture of dimensional model...
-![Alt text](https://github.com/barrypangteng/Cis-9440-Group-12/blob/cd131e75abdb9e94f741e32df7f86d24ff0b9483/Kimball%20BUS%20Matrix.png)
+![Alt text](https://github.com/barrypangteng/Cis-9440-Group-12/blob/ceedfd3a88581fa366967017719f0155852156ec/Kimball%20BUS%20Matrix.jpg)
 
 ### Business Intelligence Design and Development
 
