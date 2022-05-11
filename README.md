@@ -79,7 +79,7 @@ Use correct file path here to show picture of Wireframe design...
 Picture of final Dashboard:
 
 Use correct file path here to show picture of Dashboard...
-![Alt text](https://github.com/barrypangteng/Cis-9440-Group-12/blob/82fb05e55015c967db6f7aa07c19082584ffc2d8/Tableau%20Dashboard.png)
+![Alt text](https://github.com/barrypangteng/Cis-9440-Group-12/blob/6eff9b92690202a5803abcf78a8cce6a8f2cf364/dashboard.png)
 
 
 
