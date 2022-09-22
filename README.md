@@ -1,9 +1,6 @@
 # NYC Crime Statistics Project
 
  NYC Crime Statistics
-- author(s): Jordan Wong, Sihan Lin,Xiaodie Zhao,Jie Qu
-- date created: 5/5/2022
-- class: CIS 9440
 
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
 
