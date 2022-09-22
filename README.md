@@ -1,4 +1,4 @@
-# Cis-9440-Group-12
+# NYC Crime Statistics Project
 
  NYC Crime Statistics
 - author(s): Jordan Wong, Sihan Lin,Xiaodie Zhao,Jie Qu
