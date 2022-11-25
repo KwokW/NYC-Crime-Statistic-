@@ -85,6 +85,6 @@ Use correct file path here to show picture of Dashboard...
 
 ### Deployment
 
-The project was deployed on Tableau Public: [CIS 9440 Group 12]
+The project was deployed on Tableau Public:
 
 (https://public.tableau.com/app/profile/kwoktung.wong/viz/cis9440Group12/Dashboard1?publish=yes)
